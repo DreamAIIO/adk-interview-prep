@@ -174,16 +174,6 @@ elif industry == "finance":
     coaching_style = "precise_analytical"
 ```
 
-## 🤝 Contributing
-
-Contributions welcome! This project is perfect for:
-
-- **ADK developers**: Learn advanced multi-agent patterns
-- **Voice processing enthusiasts**: Improve speech analysis capabilities
-- **Interview prep experts**: Add new competencies and evaluation criteria
-- **UI/UX designers**: Enhance the user experience
-
-Please read our [Contributing Guidelines](CONTRIBUTING.md) first.
 
 ### Development Setup
 
