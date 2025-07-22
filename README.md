@@ -1,6 +1,6 @@
 # 🎯 AI-Powered Interview Preparation Assistant
 
-> **Built with Google's Agent Development Kit (ADK)** - The same framework powering Google Agentspace
+> **Built with Google's Agent Development Kit (ADK)** 
 
 An intelligent interview preparation system that analyzes both **what you say** (content) and **how you say it** (delivery) using multi-agent AI architecture.
 
